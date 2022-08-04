@@ -1,6 +1,6 @@
 {
-  "name": "handlebars",
-  "version": "5.0.0-alpha.1",
+  "name": "@web3-storage/handlebars",
+  "version": "1.0.0",
   "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration",
   "homepage": "https://www.handlebarsjs.com/",
   "keywords": [
